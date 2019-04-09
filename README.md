@@ -1,5 +1,5 @@
 # Answering-business-questions-using-SQL
-(THIS CODE IS STILL UNDER WORK)
+
 Running SQL queries using python on the popular Chinook database from SQLite
 
 Answering some business questions for a fictional digital music shop (Chinook).
